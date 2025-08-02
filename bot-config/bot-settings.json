@@ -1,0 +1,5 @@
+{
+  "botName": "CareerSwitchBot",
+  "description": "A supportive chatbot for career changers entering tech.",
+  "platform": "Azure Bot Services"
+}
