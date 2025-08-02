@@ -21,4 +21,14 @@ Absolutely. We take your privacy seriously. The bot doesn’t store personal dat
 
 ## 🚀 What's next for CareerSwitchBot?
 We’re always evolving! Expect new features like mock interviews, portfolio reviews, and integration with job boards in future updates.
+🔗 Job Search Links  
+Here are some helpful sites for finding jobs, whether you're switching careers or looking for remote options:  
+- [IrishJobs.ie](https://www.irishjobs.ie) — Popular for professional roles in Ireland  
+- [Jobs.ie](https://www.jobs.ie) — Great for service and retail jobs  
+- [JobsIreland.ie](https://jobsireland.ie) — Official government job board  
+- [Remote OK](https://remoteok.com) — Curated remote opportunities  
+- [We Work Remotely](https://weworkremotely.com) — Remote tech, design & writing gigs  
+- [Dribbble Jobs](https://dribbble.com/jobs) — For creatives and designers  
+- [Dice](https://www.dice.com) — Focused on tech jobs
+
 
